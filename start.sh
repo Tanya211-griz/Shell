@@ -16,7 +16,7 @@ java -version
 
 
 # Переход в директорию проекта
-
+cd Shell
 
 # Компиляция Shell.java
 echo "Компилируем Shell.java..."
