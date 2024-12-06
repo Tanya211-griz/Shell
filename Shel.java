@@ -3,7 +3,7 @@ import java.nio.ByteBuffer;
 import java.util.*;
 import sun.misc.Signal;
 
-public class Shell {
+public class Shel {
     private static final List<String> history = new ArrayList<>();
 
     public static void main(String[] args) throws IOException {
